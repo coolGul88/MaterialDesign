@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="body_background_color">#EEEEEE</color>
+    <color name="secondary_special_buy">#ED1C24</color>
+    <color name="Orange">#F96302</color>
+    <color name="Orange_Marker">#F92502</color>
+    <color name="Grey">#969696</color>
+    <color name="RGB51">#333333</color>
+    <color name="RGB85">#555555</color>
+    <color name="RGB102">#666666</color>
+    <color name="RGB119">#777777</color>
+    <color name="RGB153">#999999</color>
+    <color name="RGB204">#CCCCCC</color>
+    <color name="RGB238">#EEEEEE</color>
+    <color name="RGB237">#EDEDED</color>
+    <color name="RGB253">#FDFDFD</color>
+    <color name="RGB221">#DDDDDD</color>
+    <color name="Black">#000000</color>
+    <color name="RGB216">#D8D8D8</color>
+    <color name="RGB255">#FFFFE5</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Beige">#F9F8F4</color>
+    <color name="GreyDivider">#fbdedede</color>
+    <color name="light_grey_background_color">#E4E4E4</color>
+    <color name="Transparent">#00000000</color>
+    <color name="Translucent_Black">#70000000</color>
+    <color name="Translucent_Black_AA">#AA000000</color>
+    <color name="Translucent_Black_DD">#DD000000</color>
+    <color name="Black50">#65000000</color>
+    <color name="c10">#FDFDFD</color>
+    <color name="Alert_Red">#C70000</color>
+    <color name="Alert_Green">#00AE4D</color>
+    <color name="c0">#FFFFFF</color>
+    <color name="c1">#F68500</color>
+    <color name="c2">#333333</color>
+    <color name="c3">#666666</color>
+    <color name="c4">#999999</color>
+    <color name="c5">#cccccc</color>
+    <color name="cd">#dddddd</color>
+    <color name="ce">#EEEEEE</color>
+    <color name="c6">#1e4c97</color>
+    <color name="c7">#52851f</color>
+    <color name="C7">#777777</color>
+    <color name="c8">#d20f0f</color>
+    <color name="c9">#000000</color>
+    <color name="Org">#F96302</color>
+    <color name="link_color">#3399FF</color>
+    <color name="inventory_avail_color">#007742</color>
+    <color name="out_of_stock_color">#FF2600</color>
+    <color name="no_info_available_color">#000000</color>
+    <color name="splash_bg_color">#EEEEEE</color>
+    <color name="divider_color">#BEBEBE</color>
+    <color name="translucent_c2">#95333333</color>
+    <color name="facebook_blue">#6287c5</color>
+    <color name="swatch_selector">#515151</color>
+    <color name="RGB228">#E4E4E4</color>
+    <color name="RGB245">#F5F5F5</color>
+    <color name="itemaddedBg">#FFFFDC</color>
+    <color name="yellow">#FBB917</color>
+    
+    <!-- My Account Landing Page -->
+    <color name="myac_label_color">#FF7413</color>
+
+    <!--BLUR -->
+    <color name="bg_glass">#88ffffff</color>
+
+    <!-- MATERIAL COLORS -->
+    <color name="bluesteel">#3E7697</color>
+    <color name="greytext">#777777</color>
+    <color name="greyblacktitle">#333333</color>
+    
+</resources>

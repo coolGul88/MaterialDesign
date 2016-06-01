@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Material Design</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_in_label"><b>Sign in</b> to access your purchase history, \n preference, and more.
+    </string>
+</resources>
