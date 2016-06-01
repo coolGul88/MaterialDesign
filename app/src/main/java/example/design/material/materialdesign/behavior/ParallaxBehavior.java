@@ -28,6 +28,16 @@ public class ParallaxBehavior extends ScrollingViewBehavior {
     }
 
     @Override
+    public void onNestedPreScroll(final CoordinatorLayout coordinatorLayout, final View child, final View target, final int dx, final int dy, final int[] consumed) {
+        super.onNestedPreScroll(coordinatorLayout, child, target, dx, dy, consumed);
+    }
+
+    @Override
+    public void onNestedScrollAccepted(final CoordinatorLayout coordinatorLayout, final View child, final View directTargetChild, final View target, final int nestedScrollAxes) {
+        super.onNestedScrollAccepted(coordinatorLayout, child, directTargetChild, target, nestedScrollAxes);
+    }
+
+    @Override
     public boolean onDependentViewChanged(final CoordinatorLayout parent, final View child, final View dependency) {
         return super.onDependentViewChanged(parent, child, dependency);
     }
